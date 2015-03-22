@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("floobits-Superchig-80038"
+ (filename . "c:/Users/Chiggie/Desktop/Games/Technically_not_games,but/computer/floobits/Sardhan/Sardhan/src/jbloom/cchang/Path.java")
+ (front-context-string)
+ (rear-context-string . "\"Hello!\");\n\n		\n	")
+ (position . 449))
+)
